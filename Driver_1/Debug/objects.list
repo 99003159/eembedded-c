@@ -1,0 +1,5 @@
+"Drivers/Src/STM32FXX_GPIO_DRIVER.o"
+"Src/001LED.o"
+"Src/syscalls.o"
+"Src/sysmem.o"
+"Startup/startup_stm32f407vgtx.o"
